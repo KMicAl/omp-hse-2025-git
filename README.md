@@ -1,12 +1,3 @@
-^X
-My first file
-
-
-
-
-
-^X
-
-
-
+#My first file
+There is *some* text in here
 
